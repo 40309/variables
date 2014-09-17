@@ -9,7 +9,7 @@ remainder = number1//number2
 
 answer = number1/number2
 
-print(" {1} a remainder of {1}
+print("{0} a remainder of {1}".format(answer,remainder))
 
 
 
